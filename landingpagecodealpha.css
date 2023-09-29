@@ -1,0 +1,185 @@
+body{
+    margin-top: 0%;
+    height: 2500px;
+    }
+    .tam {
+        
+        position: fixed;
+        left: 0%;
+        right: 0%;
+        background-color: white;
+        z-index: 1;
+    
+    }
+    .sam{
+        text-align: right;
+        height: 190px;
+        background-color: black;
+        margin-left: 0% ;		
+        margin-right: 0%;
+    }
+    .logo{
+    
+        text-align: center;
+        margin-top: 0%;
+        float: left;
+    
+    
+    
+    }
+    
+    .logo-text{
+        display:block;
+        color: black;
+        font-weight: bolder;
+        font-size: larger;
+        font-family: "Helvetica Neue";
+    
+    }
+    .brand{
+        font-style: italic;
+        font-display: block;
+        padding-top: 30px;
+        padding-right: 30px;
+        padding-top: 15px;
+        text-align: center;
+    
+    }
+    .coffe-nav{
+        float: right;
+    
+    }
+    
+    
+    .coffe-nav a {
+        color:black;
+        margin-bottom: 5%;
+        padding-right: 20px;
+        padding-bottom: 30px;
+        font-size:15px ;
+        font-weight: bolder;
+        font-family: "Helvetica Neue";
+        display: inline;
+        float: right;
+        font-size: larger;
+        display: inline-block;
+        
+    }
+    .coffe-nav a:hover{
+        color: blue;
+        font-size: x-large;
+    }
+    
+    .site{
+        position: absolute;
+        padding-top: 0%;
+        margin-top: 0%;
+        width: 100%;
+        left: 0%;
+        height: 1900px;
+        
+    
+    }
+    .image{
+        padding-top: 25%;
+        position: relative;
+        margin-top: 100px;
+        background-image: url("coffeshopbackground.jpg");
+        height: 400px;
+        width: 100%;
+        text-align: center;
+    
+    }
+    .quote{
+        color: white;
+        font-family: "Helvetica Neue";
+        text-align: center;
+        position: relative;
+    
+    }
+    .card-list{
+        width: 100%;
+        text-align: center;
+    
+    } 
+    
+    #menu{
+        text-align: center;
+        top: 30px;
+    
+    }
+    .card{
+        width: 22%;
+        padding:5%;
+        height: 300px;
+        float: left;
+        text-align: center;
+    
+    }
+    .card img{
+        width: 100%;
+    
+    }
+    .order-section{
+        margin-top: 1000px;
+        width: 100%;
+    }
+    #order{
+        text-align: center;
+    }
+    .form{
+        width: 200px;
+        
+        margin:0 auto;
+    }
+    .form input{
+        padding: 15px;
+        margin: 10px;
+        border-radius: 5px;
+    }
+    
+    .container3{
+        background-color: lightgray;
+        font-size: 30px;
+        color: black;
+         height: 180px;
+         width: 100%;
+        padding-left: 450px;
+        padding-top: 40px;
+ 
+    
+    }
+    .fa-linkedin-square:hover{
+     
+        font-size: 50px;
+    }
+    .fa{
+          padding-left: 50px;
+        align-content: center;
+        padding: 25px;
+    }
+    .fa-skype:hover{
+          font-size: 50px;
+    }
+    .fa-instagram:hover{
+          font-size: 50px;
+    }
+    .fa-flickr:hover{
+          font-size: 50px;
+    }
+    .fa-facebook:hover{
+          font-size: 50px;
+    }
+    .fa-twitter:hover{
+          font-size: 50px;
+    }
+    .footer1{
+         padding-left: 60px;
+        padding-bottom: 20px;
+        margin-bottom: 0%;
+    }
+    div a {
+        text-decoration: none;
+        color:black;
+        font-size: larger;
+    }
